@@ -1,36 +1,75 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## Getting Started
 
-First, run the development server:
+# The Wild Oasis 
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+**live-site**:
+https://the-wild-oasis-website-three.vercel.app/
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+The Wild Oasis Cabins is a client-side web application developed using Next.js, App Router, Tailwind CSS, and Supabase. It serves as an immersive platform for users to explore and book cabins offered by The Wild Oasis, a fictional wilderness retreat.
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+## About
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+This project was conceived during the process of learning Next.js from a comprehensive course. The application showcases the utilization of Next.js's powerful capabilities alongside industry-standard tools like App Router, Tailwind CSS, and Supabase.
 
-## Learn More
+![signin](https://github.com/Kamlesh718/the-wild-oasis-website/assets/91180891/b6e3bd3b-ef1a-44d5-8c15-12734b25f7de)
 
-To learn more about Next.js, take a look at the following resources:
+![homepage](https://github.com/Kamlesh718/the-wild-oasis-website/assets/91180891/7d158de4-3b41-44eb-9119-3e15283300b7)
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+![Account](https://github.com/Kamlesh718/the-wild-oasis-website/assets/91180891/6d35486d-ea62-44ea-9b17-f3496a7cd979)
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+![reservations](https://github.com/Kamlesh718/the-wild-oasis-website/assets/91180891/093e06f0-7a43-4207-bad8-b07861eaa979)
 
-## Deploy on Vercel
+![edit reservations](https://github.com/Kamlesh718/the-wild-oasis-website/assets/91180891/dfffc7eb-ee4b-45b6-a8e7-3f84c366eb27)
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+![cabins](https://github.com/Kamlesh718/the-wild-oasis-website/assets/91180891/0d80c541-e304-43f4-bda8-0d475531879d)
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+![single1-cabin](https://github.com/Kamlesh718/the-wild-oasis-website/assets/91180891/01e4b42a-7dd8-40fc-b0ac-4817c3d34ffa)
+
+![single2-cabin](https://github.com/Kamlesh718/the-wild-oasis-website/assets/91180891/90b72ccf-37fc-44d6-a20f-ed387cd59196)
+
+![about](https://github.com/Kamlesh718/the-wild-oasis-website/assets/91180891/19830779-d0d3-4152-815e-87703ee56945)
+
+
+
+## Features
+
+### Immersive Exploration
+
+- **Description:** Users can delve into the scenic beauty of The Wild Oasis through detailed cabin listings and captivating imagery.
+- **Implementation:** Utilize Next.js dynamic routing to create individual pages for each cabin, showcasing high-quality images and comprehensive descriptions.
+- **Visual Appeal:** Leverage Tailwind CSS for responsive and visually appealing design, ensuring an immersive experience .
+
+### Effortless Booking
+
+- **Description:** Booking cabins is made effortless with a user-friendly interface.
+- **User Experience:** Implement intuitive form handling using Next.js, making the booking process seamless and straightforward.
+- **Backend Integration:** Utilize Supabase for backend services, including database storage of booking information and authentication of user sessions.
+
+### Dynamic Updates
+
+- **Description:** Real-time updates provide users with accurate availability information for informed booking decisions.
+- **Real-Time Capabilities:** Leverage Supabase's real-time capabilities to subscribe to changes in cabin availability, ensuring users always have up-to-date information without needing to refresh the page.
+
+### Secure Authentication
+
+- **Description:** Authentication via Google ensures a secure login experience, instilling confidence in users while interacting with the platform.
+- **Implementation:** Utilize Auth.js for authentication, providing seamless integration with Google OAuth for secure user authentication.
+- **Secure Communication:** Ensure secure communication between client and server by using HTTPS and following best practices for handling authentication tokens.
+
+## Technologies Used
+
+### Next.js
+- A React framework for building powerful web applications.
+
+### App Router
+- A routing solution that seamlessly integrates with Next.js, enabling smooth navigation within the application.
+
+### Tailwind CSS
+- A utility-first CSS framework that facilitates rapid and flexible UI development.
+
+### Supabase
+-  A robust platform providing authentication and database services, ensuring a reliable backend infrastructure.
+
+
+
+
