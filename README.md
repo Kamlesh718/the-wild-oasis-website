@@ -11,22 +11,30 @@ The Wild Oasis Cabins is a client-side web application developed using Next.js, 
 
 This project was conceived during the process of learning Next.js from a comprehensive course. The application showcases the utilization of Next.js's powerful capabilities alongside industry-standard tools like App Router, Tailwind CSS, and Supabase,Auth.js.
 
+**Sign-in page**
 ![signin](https://github.com/Kamlesh718/the-wild-oasis-website/assets/91180891/b6e3bd3b-ef1a-44d5-8c15-12734b25f7de)
 
+**Homepage**
 ![homepage](https://github.com/Kamlesh718/the-wild-oasis-website/assets/91180891/7d158de4-3b41-44eb-9119-3e15283300b7)
 
+**Account/home page**
 ![Account](https://github.com/Kamlesh718/the-wild-oasis-website/assets/91180891/6d35486d-ea62-44ea-9b17-f3496a7cd979)
 
+**Reservations list page**
 ![reservations](https://github.com/Kamlesh718/the-wild-oasis-website/assets/91180891/093e06f0-7a43-4207-bad8-b07861eaa979)
 
+**Edit-reservation page**
 ![edit reservations](https://github.com/Kamlesh718/the-wild-oasis-website/assets/91180891/dfffc7eb-ee4b-45b6-a8e7-3f84c366eb27)
 
+**Cabins page**
 ![cabins](https://github.com/Kamlesh718/the-wild-oasis-website/assets/91180891/0d80c541-e304-43f4-bda8-0d475531879d)
 
+**Individual cabin page**
 ![single1-cabin](https://github.com/Kamlesh718/the-wild-oasis-website/assets/91180891/01e4b42a-7dd8-40fc-b0ac-4817c3d34ffa)
 
 ![single2-cabin](https://github.com/Kamlesh718/the-wild-oasis-website/assets/91180891/90b72ccf-37fc-44d6-a20f-ed387cd59196)
 
+**About page**
 ![about](https://github.com/Kamlesh718/the-wild-oasis-website/assets/91180891/19830779-d0d3-4152-815e-87703ee56945)
 
 
