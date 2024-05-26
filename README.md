@@ -43,7 +43,7 @@ This project was conceived during the process of learning Next.js from a compreh
 
 - **Description:** Booking cabins is made effortless with a user-friendly interface.
 - **User Experience:** Implement intuitive form handling using Next.js, making the booking process seamless and straightforward.
-- **Backend Integration:** Utilize Supabase for backend services, including database storage of booking information and authentication of user sessions.
+- **Backend Integration:** Utilize Supabase for backend services, including database storage of booking information.
 
 ### Dynamic Updates
 
@@ -54,7 +54,6 @@ This project was conceived during the process of learning Next.js from a compreh
 
 - **Description:** Authentication via Google ensures a secure login experience, instilling confidence in users while interacting with the platform.
 - **Implementation:** Utilize Auth.js for authentication, providing seamless integration with Google OAuth for secure user authentication.
-- **Secure Communication:** Ensure secure communication between client and server by using HTTPS and following best practices for handling authentication tokens.
 
 ## Technologies Used
 
@@ -68,7 +67,7 @@ This project was conceived during the process of learning Next.js from a compreh
 - A utility-first CSS framework that facilitates rapid and flexible UI development.
 
 ### Supabase
--  A robust platform providing authentication and database services, ensuring a reliable backend infrastructure.
+-  A robust platform providing database services, ensuring a reliable backend infrastructure.
 
 
 
