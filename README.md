@@ -56,7 +56,7 @@ This project was conceived during the process of learning Next.js from a compreh
 ### Dynamic Updates
 
 - **Description:** Real-time updates provide users with accurate availability information for informed booking decisions.
-- **Real-Time Capabilities:** Leverage Supabase's real-time capabilities to subscribe to changes in cabin availability, ensuring users always have up-to-date information without needing to refresh the page.
+- **Real-Time Capabilities:** Leverage real-time capabilities to subscribe to changes in cabin availability, ensuring users always have up-to-date information without needing to refresh the page.
 
 ### Secure Authentication
 
