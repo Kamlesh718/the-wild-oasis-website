@@ -5,7 +5,7 @@
 **live-site**:
 https://the-wild-oasis-website-three.vercel.app/
 
-The Wild Oasis Cabins is a client-side web application developed using Next.js, App Router, Tailwind CSS, and Supabase. It serves as an immersive platform for users to explore and book cabins offered by The Wild Oasis, a fictional wilderness retreat.
+This Website is my first project that I created while learning Nextjs. The Wild Oasis Cabins is a client-side web application developed using Next.js, App Router, Tailwind CSS, and Supabase. It serves as an immersive platform for users to explore and book cabins offered by The Wild Oasis, a fictional wilderness retreat.
 
 ## About
 
