@@ -9,7 +9,7 @@ The Wild Oasis Cabins is a client-side web application developed using Next.js, 
 
 ## About
 
-This project was conceived during the process of learning Next.js from a comprehensive course. The application showcases the utilization of Next.js's powerful capabilities alongside industry-standard tools like App Router, Tailwind CSS, and Supabase,Auth.js.
+The application showcases the utilization of Next.js's powerful capabilities alongside industry-standard tools like App Router, Tailwind CSS, and Supabase,Auth.js.
 
 **Sign-in page**
 ![signin](https://github.com/Kamlesh718/the-wild-oasis-website/assets/91180891/b6e3bd3b-ef1a-44d5-8c15-12734b25f7de)
